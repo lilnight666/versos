@@ -1,0 +1,83 @@
+
+        *{
+            
+            margin: 0px;
+            padding: 0px;
+        }
+        header{
+            background: linear-gradient(#37D5D6, #36096D);
+            margin: auto;
+            padding: 40px;
+           
+        }
+        h1{
+            text-align: center;
+            font-size: larger;
+            font-weight: bolder;
+            color: rgb(15, 15, 92);
+            
+        }
+        main{
+            background-color: rgb(7, 5, 116);
+            margin: auto;
+        }
+        section#poema{
+            background: linear-gradient( #36096D, #37D5D6);
+            background-position: left;
+            margin: auto;
+            padding: auto;
+            padding-bottom: 27px;
+            border-radius: 10px;
+        }
+        body{
+            background-color: #1E3B70;
+        }
+        section#no{
+
+           background-image: url(1000_F_114688558_nebXEqPyY2WxmYy3W469MO6O615WkvOO.jpg) ;
+           background-repeat: no-repeat;
+            margin: auto;
+            padding: auto;
+            background-color: rgb(16, 78, 102);
+            text-align: center;
+            color: rgb(2, 198, 228);
+        }
+        a{
+            text-decoration: none;
+            color: rgb(0, 132, 255);
+            margin: 10px;
+            padding: 10px;
+            font-size: larger;
+            
+            border-radius: 20px;
+            
+            
+        }
+        a:hover{
+            background-color: rgb(60, 93, 163);
+
+        }
+        br{
+            color: white;
+        }
+        nav{
+            background: linear-gradient(#37D5D6 , #1794a1,#1E3B70);
+            margin-bottom: auto;
+            padding-top: 30px;
+            padding-bottom: 10px;
+            border-radius: 5px;
+        }
+        footer{
+
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+            background: linear-gradient(#1E3B70, #29539B);
+            background-color: rgb(7, 0, 107);
+            font-weight: bold;
+            color: white;
+        }
+        @font-face {
+            font-family:nexa,sans-serif;
+            src: url(Nexa/Commercial/Nexa_V1_2012/Nexa\ Bold.otf);
+        }
