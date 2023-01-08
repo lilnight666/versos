@@ -40,7 +40,8 @@
             padding: auto;
             background-color: rgb(16, 78, 102);
             text-align: center;
-            color: rgb(189, 6, 180);
+            color: rgb(146, 138, 138);
+            font-size: 20px;
             
         }
         a{
@@ -59,7 +60,7 @@
 
         }
         br{
-            color: white;
+            color: rgb(0, 0, 0);
         }
         nav{
             background: linear-gradient(#37D5D6 , #1794a1,#1E3B70);
